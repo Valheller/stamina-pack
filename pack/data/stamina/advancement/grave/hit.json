@@ -1,0 +1,9 @@
+{
+  "criteria": {
+    "hit": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": { "entity": { "type": "minecraft:entity_properties", "entity": "this", "predicate": { "minecraft:entity_type": "minecraft:interaction", "minecraft:nbt": "{Tags:[\"st.grave_hit\"]}" } } }
+    }
+  },
+  "rewards": { "function": "stamina:grave/touch" }
+}

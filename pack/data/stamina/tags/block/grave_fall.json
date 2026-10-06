@@ -1,0 +1,7 @@
+{
+  "values": [
+    "#minecraft:air", "minecraft:short_grass", "minecraft:tall_grass", "minecraft:fern", "minecraft:large_fern",
+    "minecraft:dead_bush", "minecraft:short_dry_grass", "minecraft:tall_dry_grass", "minecraft:bush",
+    "minecraft:fire", "minecraft:soul_fire", "minecraft:vine", "minecraft:glow_lichen", "minecraft:light"
+  ]
+}

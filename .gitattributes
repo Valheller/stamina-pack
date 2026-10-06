@@ -1,0 +1,5 @@
+# Keep the pack's files exactly as built (LF line endings); images and the zip are binary
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.zip binary

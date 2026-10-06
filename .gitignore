@@ -1,0 +1,4 @@
+# Built by tools/build.ps1 - attach it to a GitHub Release instead of committing it
+stamina_pack.zip
+# Compressed screenshot copies for upload pages
+gallery/

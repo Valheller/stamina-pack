@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "type":  "minecraft:model",
+                  "model":  "stamina:item/broken/warped_fungus_on_a_stick"
+              }
+}

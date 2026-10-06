@@ -1,0 +1,6 @@
+{
+    "model":  {
+                  "type":  "minecraft:model",
+                  "model":  "stamina:item/broken/copper_sword"
+              }
+}

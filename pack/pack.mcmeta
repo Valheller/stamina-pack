@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Stamina Pack: stamina replaces hunger, food heals, graves, HUD timers, compass and clock",
+    "min_format": 97,
+    "max_format": 121
+  }
+}

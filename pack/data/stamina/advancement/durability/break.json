@@ -1,0 +1,1007 @@
+{
+    "criteria":  {
+                     "diamond_sword":  {
+                                           "trigger":  "minecraft:item_durability_changed",
+                                           "conditions":  {
+                                                              "item":  {
+                                                                           "items":  "minecraft:diamond_sword"
+                                                                       },
+                                                              "durability":  {
+                                                                                 "max":  0
+                                                                             }
+                                                          }
+                                       },
+                     "stone_sword":  {
+                                         "trigger":  "minecraft:item_durability_changed",
+                                         "conditions":  {
+                                                            "item":  {
+                                                                         "items":  "minecraft:stone_sword"
+                                                                     },
+                                                            "durability":  {
+                                                                               "max":  0
+                                                                           }
+                                                        }
+                                     },
+                     "golden_sword":  {
+                                          "trigger":  "minecraft:item_durability_changed",
+                                          "conditions":  {
+                                                             "item":  {
+                                                                          "items":  "minecraft:golden_sword"
+                                                                      },
+                                                             "durability":  {
+                                                                                "max":  0
+                                                                            }
+                                                         }
+                                      },
+                     "netherite_sword":  {
+                                             "trigger":  "minecraft:item_durability_changed",
+                                             "conditions":  {
+                                                                "item":  {
+                                                                             "items":  "minecraft:netherite_sword"
+                                                                         },
+                                                                "durability":  {
+                                                                                   "max":  0
+                                                                               }
+                                                            }
+                                         },
+                     "wooden_sword":  {
+                                          "trigger":  "minecraft:item_durability_changed",
+                                          "conditions":  {
+                                                             "item":  {
+                                                                          "items":  "minecraft:wooden_sword"
+                                                                      },
+                                                             "durability":  {
+                                                                                "max":  0
+                                                                            }
+                                                         }
+                                      },
+                     "iron_sword":  {
+                                        "trigger":  "minecraft:item_durability_changed",
+                                        "conditions":  {
+                                                           "item":  {
+                                                                        "items":  "minecraft:iron_sword"
+                                                                    },
+                                                           "durability":  {
+                                                                              "max":  0
+                                                                          }
+                                                       }
+                                    },
+                     "copper_sword":  {
+                                          "trigger":  "minecraft:item_durability_changed",
+                                          "conditions":  {
+                                                             "item":  {
+                                                                          "items":  "minecraft:copper_sword"
+                                                                      },
+                                                             "durability":  {
+                                                                                "max":  0
+                                                                            }
+                                                         }
+                                      },
+                     "diamond_spear":  {
+                                           "trigger":  "minecraft:item_durability_changed",
+                                           "conditions":  {
+                                                              "item":  {
+                                                                           "items":  "minecraft:diamond_spear"
+                                                                       },
+                                                              "durability":  {
+                                                                                 "max":  0
+                                                                             }
+                                                          }
+                                       },
+                     "stone_spear":  {
+                                         "trigger":  "minecraft:item_durability_changed",
+                                         "conditions":  {
+                                                            "item":  {
+                                                                         "items":  "minecraft:stone_spear"
+                                                                     },
+                                                            "durability":  {
+                                                                               "max":  0
+                                                                           }
+                                                        }
+                                     },
+                     "golden_spear":  {
+                                          "trigger":  "minecraft:item_durability_changed",
+                                          "conditions":  {
+                                                             "item":  {
+                                                                          "items":  "minecraft:golden_spear"
+                                                                      },
+                                                             "durability":  {
+                                                                                "max":  0
+                                                                            }
+                                                         }
+                                      },
+                     "netherite_spear":  {
+                                             "trigger":  "minecraft:item_durability_changed",
+                                             "conditions":  {
+                                                                "item":  {
+                                                                             "items":  "minecraft:netherite_spear"
+                                                                         },
+                                                                "durability":  {
+                                                                                   "max":  0
+                                                                               }
+                                                            }
+                                         },
+                     "wooden_spear":  {
+                                          "trigger":  "minecraft:item_durability_changed",
+                                          "conditions":  {
+                                                             "item":  {
+                                                                          "items":  "minecraft:wooden_spear"
+                                                                      },
+                                                             "durability":  {
+                                                                                "max":  0
+                                                                            }
+                                                         }
+                                      },
+                     "iron_spear":  {
+                                        "trigger":  "minecraft:item_durability_changed",
+                                        "conditions":  {
+                                                           "item":  {
+                                                                        "items":  "minecraft:iron_spear"
+                                                                    },
+                                                           "durability":  {
+                                                                              "max":  0
+                                                                          }
+                                                       }
+                                    },
+                     "copper_spear":  {
+                                          "trigger":  "minecraft:item_durability_changed",
+                                          "conditions":  {
+                                                             "item":  {
+                                                                          "items":  "minecraft:copper_spear"
+                                                                      },
+                                                             "durability":  {
+                                                                                "max":  0
+                                                                            }
+                                                         }
+                                      },
+                     "diamond_shovel":  {
+                                            "trigger":  "minecraft:item_durability_changed",
+                                            "conditions":  {
+                                                               "item":  {
+                                                                            "items":  "minecraft:diamond_shovel"
+                                                                        },
+                                                               "durability":  {
+                                                                                  "max":  0
+                                                                              }
+                                                           }
+                                        },
+                     "stone_shovel":  {
+                                          "trigger":  "minecraft:item_durability_changed",
+                                          "conditions":  {
+                                                             "item":  {
+                                                                          "items":  "minecraft:stone_shovel"
+                                                                      },
+                                                             "durability":  {
+                                                                                "max":  0
+                                                                            }
+                                                         }
+                                      },
+                     "golden_shovel":  {
+                                           "trigger":  "minecraft:item_durability_changed",
+                                           "conditions":  {
+                                                              "item":  {
+                                                                           "items":  "minecraft:golden_shovel"
+                                                                       },
+                                                              "durability":  {
+                                                                                 "max":  0
+                                                                             }
+                                                          }
+                                       },
+                     "netherite_shovel":  {
+                                              "trigger":  "minecraft:item_durability_changed",
+                                              "conditions":  {
+                                                                 "item":  {
+                                                                              "items":  "minecraft:netherite_shovel"
+                                                                          },
+                                                                 "durability":  {
+                                                                                    "max":  0
+                                                                                }
+                                                             }
+                                          },
+                     "wooden_shovel":  {
+                                           "trigger":  "minecraft:item_durability_changed",
+                                           "conditions":  {
+                                                              "item":  {
+                                                                           "items":  "minecraft:wooden_shovel"
+                                                                       },
+                                                              "durability":  {
+                                                                                 "max":  0
+                                                                             }
+                                                          }
+                                       },
+                     "iron_shovel":  {
+                                         "trigger":  "minecraft:item_durability_changed",
+                                         "conditions":  {
+                                                            "item":  {
+                                                                         "items":  "minecraft:iron_shovel"
+                                                                     },
+                                                            "durability":  {
+                                                                               "max":  0
+                                                                           }
+                                                        }
+                                     },
+                     "copper_shovel":  {
+                                           "trigger":  "minecraft:item_durability_changed",
+                                           "conditions":  {
+                                                              "item":  {
+                                                                           "items":  "minecraft:copper_shovel"
+                                                                       },
+                                                              "durability":  {
+                                                                                 "max":  0
+                                                                             }
+                                                          }
+                                       },
+                     "diamond_hoe":  {
+                                         "trigger":  "minecraft:item_durability_changed",
+                                         "conditions":  {
+                                                            "item":  {
+                                                                         "items":  "minecraft:diamond_hoe"
+                                                                     },
+                                                            "durability":  {
+                                                                               "max":  0
+                                                                           }
+                                                        }
+                                     },
+                     "stone_hoe":  {
+                                       "trigger":  "minecraft:item_durability_changed",
+                                       "conditions":  {
+                                                          "item":  {
+                                                                       "items":  "minecraft:stone_hoe"
+                                                                   },
+                                                          "durability":  {
+                                                                             "max":  0
+                                                                         }
+                                                      }
+                                   },
+                     "golden_hoe":  {
+                                        "trigger":  "minecraft:item_durability_changed",
+                                        "conditions":  {
+                                                           "item":  {
+                                                                        "items":  "minecraft:golden_hoe"
+                                                                    },
+                                                           "durability":  {
+                                                                              "max":  0
+                                                                          }
+                                                       }
+                                    },
+                     "netherite_hoe":  {
+                                           "trigger":  "minecraft:item_durability_changed",
+                                           "conditions":  {
+                                                              "item":  {
+                                                                           "items":  "minecraft:netherite_hoe"
+                                                                       },
+                                                              "durability":  {
+                                                                                 "max":  0
+                                                                             }
+                                                          }
+                                       },
+                     "wooden_hoe":  {
+                                        "trigger":  "minecraft:item_durability_changed",
+                                        "conditions":  {
+                                                           "item":  {
+                                                                        "items":  "minecraft:wooden_hoe"
+                                                                    },
+                                                           "durability":  {
+                                                                              "max":  0
+                                                                          }
+                                                       }
+                                    },
+                     "iron_hoe":  {
+                                      "trigger":  "minecraft:item_durability_changed",
+                                      "conditions":  {
+                                                         "item":  {
+                                                                      "items":  "minecraft:iron_hoe"
+                                                                  },
+                                                         "durability":  {
+                                                                            "max":  0
+                                                                        }
+                                                     }
+                                  },
+                     "copper_hoe":  {
+                                        "trigger":  "minecraft:item_durability_changed",
+                                        "conditions":  {
+                                                           "item":  {
+                                                                        "items":  "minecraft:copper_hoe"
+                                                                    },
+                                                           "durability":  {
+                                                                              "max":  0
+                                                                          }
+                                                       }
+                                    },
+                     "diamond_pickaxe":  {
+                                             "trigger":  "minecraft:item_durability_changed",
+                                             "conditions":  {
+                                                                "item":  {
+                                                                             "items":  "minecraft:diamond_pickaxe"
+                                                                         },
+                                                                "durability":  {
+                                                                                   "max":  0
+                                                                               }
+                                                            }
+                                         },
+                     "stone_pickaxe":  {
+                                           "trigger":  "minecraft:item_durability_changed",
+                                           "conditions":  {
+                                                              "item":  {
+                                                                           "items":  "minecraft:stone_pickaxe"
+                                                                       },
+                                                              "durability":  {
+                                                                                 "max":  0
+                                                                             }
+                                                          }
+                                       },
+                     "golden_pickaxe":  {
+                                            "trigger":  "minecraft:item_durability_changed",
+                                            "conditions":  {
+                                                               "item":  {
+                                                                            "items":  "minecraft:golden_pickaxe"
+                                                                        },
+                                                               "durability":  {
+                                                                                  "max":  0
+                                                                              }
+                                                           }
+                                        },
+                     "netherite_pickaxe":  {
+                                               "trigger":  "minecraft:item_durability_changed",
+                                               "conditions":  {
+                                                                  "item":  {
+                                                                               "items":  "minecraft:netherite_pickaxe"
+                                                                           },
+                                                                  "durability":  {
+                                                                                     "max":  0
+                                                                                 }
+                                                              }
+                                           },
+                     "wooden_pickaxe":  {
+                                            "trigger":  "minecraft:item_durability_changed",
+                                            "conditions":  {
+                                                               "item":  {
+                                                                            "items":  "minecraft:wooden_pickaxe"
+                                                                        },
+                                                               "durability":  {
+                                                                                  "max":  0
+                                                                              }
+                                                           }
+                                        },
+                     "iron_pickaxe":  {
+                                          "trigger":  "minecraft:item_durability_changed",
+                                          "conditions":  {
+                                                             "item":  {
+                                                                          "items":  "minecraft:iron_pickaxe"
+                                                                      },
+                                                             "durability":  {
+                                                                                "max":  0
+                                                                            }
+                                                         }
+                                      },
+                     "copper_pickaxe":  {
+                                            "trigger":  "minecraft:item_durability_changed",
+                                            "conditions":  {
+                                                               "item":  {
+                                                                            "items":  "minecraft:copper_pickaxe"
+                                                                        },
+                                                               "durability":  {
+                                                                                  "max":  0
+                                                                              }
+                                                           }
+                                        },
+                     "diamond_axe":  {
+                                         "trigger":  "minecraft:item_durability_changed",
+                                         "conditions":  {
+                                                            "item":  {
+                                                                         "items":  "minecraft:diamond_axe"
+                                                                     },
+                                                            "durability":  {
+                                                                               "max":  0
+                                                                           }
+                                                        }
+                                     },
+                     "stone_axe":  {
+                                       "trigger":  "minecraft:item_durability_changed",
+                                       "conditions":  {
+                                                          "item":  {
+                                                                       "items":  "minecraft:stone_axe"
+                                                                   },
+                                                          "durability":  {
+                                                                             "max":  0
+                                                                         }
+                                                      }
+                                   },
+                     "golden_axe":  {
+                                        "trigger":  "minecraft:item_durability_changed",
+                                        "conditions":  {
+                                                           "item":  {
+                                                                        "items":  "minecraft:golden_axe"
+                                                                    },
+                                                           "durability":  {
+                                                                              "max":  0
+                                                                          }
+                                                       }
+                                    },
+                     "netherite_axe":  {
+                                           "trigger":  "minecraft:item_durability_changed",
+                                           "conditions":  {
+                                                              "item":  {
+                                                                           "items":  "minecraft:netherite_axe"
+                                                                       },
+                                                              "durability":  {
+                                                                                 "max":  0
+                                                                             }
+                                                          }
+                                       },
+                     "wooden_axe":  {
+                                        "trigger":  "minecraft:item_durability_changed",
+                                        "conditions":  {
+                                                           "item":  {
+                                                                        "items":  "minecraft:wooden_axe"
+                                                                    },
+                                                           "durability":  {
+                                                                              "max":  0
+                                                                          }
+                                                       }
+                                    },
+                     "iron_axe":  {
+                                      "trigger":  "minecraft:item_durability_changed",
+                                      "conditions":  {
+                                                         "item":  {
+                                                                      "items":  "minecraft:iron_axe"
+                                                                  },
+                                                         "durability":  {
+                                                                            "max":  0
+                                                                        }
+                                                     }
+                                  },
+                     "copper_axe":  {
+                                        "trigger":  "minecraft:item_durability_changed",
+                                        "conditions":  {
+                                                           "item":  {
+                                                                        "items":  "minecraft:copper_axe"
+                                                                    },
+                                                           "durability":  {
+                                                                              "max":  0
+                                                                          }
+                                                       }
+                                    },
+                     "leather_helmet":  {
+                                            "trigger":  "minecraft:item_durability_changed",
+                                            "conditions":  {
+                                                               "item":  {
+                                                                            "items":  "minecraft:leather_helmet"
+                                                                        },
+                                                               "durability":  {
+                                                                                  "max":  0
+                                                                              }
+                                                           }
+                                        },
+                     "copper_helmet":  {
+                                           "trigger":  "minecraft:item_durability_changed",
+                                           "conditions":  {
+                                                              "item":  {
+                                                                           "items":  "minecraft:copper_helmet"
+                                                                       },
+                                                              "durability":  {
+                                                                                 "max":  0
+                                                                             }
+                                                          }
+                                       },
+                     "chainmail_helmet":  {
+                                              "trigger":  "minecraft:item_durability_changed",
+                                              "conditions":  {
+                                                                 "item":  {
+                                                                              "items":  "minecraft:chainmail_helmet"
+                                                                          },
+                                                                 "durability":  {
+                                                                                    "max":  0
+                                                                                }
+                                                             }
+                                          },
+                     "golden_helmet":  {
+                                           "trigger":  "minecraft:item_durability_changed",
+                                           "conditions":  {
+                                                              "item":  {
+                                                                           "items":  "minecraft:golden_helmet"
+                                                                       },
+                                                              "durability":  {
+                                                                                 "max":  0
+                                                                             }
+                                                          }
+                                       },
+                     "iron_helmet":  {
+                                         "trigger":  "minecraft:item_durability_changed",
+                                         "conditions":  {
+                                                            "item":  {
+                                                                         "items":  "minecraft:iron_helmet"
+                                                                     },
+                                                            "durability":  {
+                                                                               "max":  0
+                                                                           }
+                                                        }
+                                     },
+                     "diamond_helmet":  {
+                                            "trigger":  "minecraft:item_durability_changed",
+                                            "conditions":  {
+                                                               "item":  {
+                                                                            "items":  "minecraft:diamond_helmet"
+                                                                        },
+                                                               "durability":  {
+                                                                                  "max":  0
+                                                                              }
+                                                           }
+                                        },
+                     "netherite_helmet":  {
+                                              "trigger":  "minecraft:item_durability_changed",
+                                              "conditions":  {
+                                                                 "item":  {
+                                                                              "items":  "minecraft:netherite_helmet"
+                                                                          },
+                                                                 "durability":  {
+                                                                                    "max":  0
+                                                                                }
+                                                             }
+                                          },
+                     "turtle_helmet":  {
+                                           "trigger":  "minecraft:item_durability_changed",
+                                           "conditions":  {
+                                                              "item":  {
+                                                                           "items":  "minecraft:turtle_helmet"
+                                                                       },
+                                                              "durability":  {
+                                                                                 "max":  0
+                                                                             }
+                                                          }
+                                       },
+                     "leather_chestplate":  {
+                                                "trigger":  "minecraft:item_durability_changed",
+                                                "conditions":  {
+                                                                   "item":  {
+                                                                                "items":  "minecraft:leather_chestplate"
+                                                                            },
+                                                                   "durability":  {
+                                                                                      "max":  0
+                                                                                  }
+                                                               }
+                                            },
+                     "copper_chestplate":  {
+                                               "trigger":  "minecraft:item_durability_changed",
+                                               "conditions":  {
+                                                                  "item":  {
+                                                                               "items":  "minecraft:copper_chestplate"
+                                                                           },
+                                                                  "durability":  {
+                                                                                     "max":  0
+                                                                                 }
+                                                              }
+                                           },
+                     "chainmail_chestplate":  {
+                                                  "trigger":  "minecraft:item_durability_changed",
+                                                  "conditions":  {
+                                                                     "item":  {
+                                                                                  "items":  "minecraft:chainmail_chestplate"
+                                                                              },
+                                                                     "durability":  {
+                                                                                        "max":  0
+                                                                                    }
+                                                                 }
+                                              },
+                     "golden_chestplate":  {
+                                               "trigger":  "minecraft:item_durability_changed",
+                                               "conditions":  {
+                                                                  "item":  {
+                                                                               "items":  "minecraft:golden_chestplate"
+                                                                           },
+                                                                  "durability":  {
+                                                                                     "max":  0
+                                                                                 }
+                                                              }
+                                           },
+                     "iron_chestplate":  {
+                                             "trigger":  "minecraft:item_durability_changed",
+                                             "conditions":  {
+                                                                "item":  {
+                                                                             "items":  "minecraft:iron_chestplate"
+                                                                         },
+                                                                "durability":  {
+                                                                                   "max":  0
+                                                                               }
+                                                            }
+                                         },
+                     "diamond_chestplate":  {
+                                                "trigger":  "minecraft:item_durability_changed",
+                                                "conditions":  {
+                                                                   "item":  {
+                                                                                "items":  "minecraft:diamond_chestplate"
+                                                                            },
+                                                                   "durability":  {
+                                                                                      "max":  0
+                                                                                  }
+                                                               }
+                                            },
+                     "netherite_chestplate":  {
+                                                  "trigger":  "minecraft:item_durability_changed",
+                                                  "conditions":  {
+                                                                     "item":  {
+                                                                                  "items":  "minecraft:netherite_chestplate"
+                                                                              },
+                                                                     "durability":  {
+                                                                                        "max":  0
+                                                                                    }
+                                                                 }
+                                              },
+                     "leather_leggings":  {
+                                              "trigger":  "minecraft:item_durability_changed",
+                                              "conditions":  {
+                                                                 "item":  {
+                                                                              "items":  "minecraft:leather_leggings"
+                                                                          },
+                                                                 "durability":  {
+                                                                                    "max":  0
+                                                                                }
+                                                             }
+                                          },
+                     "copper_leggings":  {
+                                             "trigger":  "minecraft:item_durability_changed",
+                                             "conditions":  {
+                                                                "item":  {
+                                                                             "items":  "minecraft:copper_leggings"
+                                                                         },
+                                                                "durability":  {
+                                                                                   "max":  0
+                                                                               }
+                                                            }
+                                         },
+                     "chainmail_leggings":  {
+                                                "trigger":  "minecraft:item_durability_changed",
+                                                "conditions":  {
+                                                                   "item":  {
+                                                                                "items":  "minecraft:chainmail_leggings"
+                                                                            },
+                                                                   "durability":  {
+                                                                                      "max":  0
+                                                                                  }
+                                                               }
+                                            },
+                     "golden_leggings":  {
+                                             "trigger":  "minecraft:item_durability_changed",
+                                             "conditions":  {
+                                                                "item":  {
+                                                                             "items":  "minecraft:golden_leggings"
+                                                                         },
+                                                                "durability":  {
+                                                                                   "max":  0
+                                                                               }
+                                                            }
+                                         },
+                     "iron_leggings":  {
+                                           "trigger":  "minecraft:item_durability_changed",
+                                           "conditions":  {
+                                                              "item":  {
+                                                                           "items":  "minecraft:iron_leggings"
+                                                                       },
+                                                              "durability":  {
+                                                                                 "max":  0
+                                                                             }
+                                                          }
+                                       },
+                     "diamond_leggings":  {
+                                              "trigger":  "minecraft:item_durability_changed",
+                                              "conditions":  {
+                                                                 "item":  {
+                                                                              "items":  "minecraft:diamond_leggings"
+                                                                          },
+                                                                 "durability":  {
+                                                                                    "max":  0
+                                                                                }
+                                                             }
+                                          },
+                     "netherite_leggings":  {
+                                                "trigger":  "minecraft:item_durability_changed",
+                                                "conditions":  {
+                                                                   "item":  {
+                                                                                "items":  "minecraft:netherite_leggings"
+                                                                            },
+                                                                   "durability":  {
+                                                                                      "max":  0
+                                                                                  }
+                                                               }
+                                            },
+                     "leather_boots":  {
+                                           "trigger":  "minecraft:item_durability_changed",
+                                           "conditions":  {
+                                                              "item":  {
+                                                                           "items":  "minecraft:leather_boots"
+                                                                       },
+                                                              "durability":  {
+                                                                                 "max":  0
+                                                                             }
+                                                          }
+                                       },
+                     "copper_boots":  {
+                                          "trigger":  "minecraft:item_durability_changed",
+                                          "conditions":  {
+                                                             "item":  {
+                                                                          "items":  "minecraft:copper_boots"
+                                                                      },
+                                                             "durability":  {
+                                                                                "max":  0
+                                                                            }
+                                                         }
+                                      },
+                     "chainmail_boots":  {
+                                             "trigger":  "minecraft:item_durability_changed",
+                                             "conditions":  {
+                                                                "item":  {
+                                                                             "items":  "minecraft:chainmail_boots"
+                                                                         },
+                                                                "durability":  {
+                                                                                   "max":  0
+                                                                               }
+                                                            }
+                                         },
+                     "golden_boots":  {
+                                          "trigger":  "minecraft:item_durability_changed",
+                                          "conditions":  {
+                                                             "item":  {
+                                                                          "items":  "minecraft:golden_boots"
+                                                                      },
+                                                             "durability":  {
+                                                                                "max":  0
+                                                                            }
+                                                         }
+                                      },
+                     "iron_boots":  {
+                                        "trigger":  "minecraft:item_durability_changed",
+                                        "conditions":  {
+                                                           "item":  {
+                                                                        "items":  "minecraft:iron_boots"
+                                                                    },
+                                                           "durability":  {
+                                                                              "max":  0
+                                                                          }
+                                                       }
+                                    },
+                     "diamond_boots":  {
+                                           "trigger":  "minecraft:item_durability_changed",
+                                           "conditions":  {
+                                                              "item":  {
+                                                                           "items":  "minecraft:diamond_boots"
+                                                                       },
+                                                              "durability":  {
+                                                                                 "max":  0
+                                                                             }
+                                                          }
+                                       },
+                     "netherite_boots":  {
+                                             "trigger":  "minecraft:item_durability_changed",
+                                             "conditions":  {
+                                                                "item":  {
+                                                                             "items":  "minecraft:netherite_boots"
+                                                                         },
+                                                                "durability":  {
+                                                                                   "max":  0
+                                                                               }
+                                                            }
+                                         },
+                     "shield":  {
+                                    "trigger":  "minecraft:item_durability_changed",
+                                    "conditions":  {
+                                                       "item":  {
+                                                                    "items":  "minecraft:shield"
+                                                                },
+                                                       "durability":  {
+                                                                          "max":  0
+                                                                      }
+                                                   }
+                                },
+                     "elytra":  {
+                                    "trigger":  "minecraft:item_durability_changed",
+                                    "conditions":  {
+                                                       "item":  {
+                                                                    "items":  "minecraft:elytra"
+                                                                },
+                                                       "durability":  {
+                                                                          "max":  0
+                                                                      }
+                                                   }
+                                },
+                     "trident":  {
+                                     "trigger":  "minecraft:item_durability_changed",
+                                     "conditions":  {
+                                                        "item":  {
+                                                                     "items":  "minecraft:trident"
+                                                                 },
+                                                        "durability":  {
+                                                                           "max":  0
+                                                                       }
+                                                    }
+                                 },
+                     "mace":  {
+                                  "trigger":  "minecraft:item_durability_changed",
+                                  "conditions":  {
+                                                     "item":  {
+                                                                  "items":  "minecraft:mace"
+                                                              },
+                                                     "durability":  {
+                                                                        "max":  0
+                                                                    }
+                                                 }
+                              },
+                     "bow":  {
+                                 "trigger":  "minecraft:item_durability_changed",
+                                 "conditions":  {
+                                                    "item":  {
+                                                                 "items":  "minecraft:bow"
+                                                             },
+                                                    "durability":  {
+                                                                       "max":  0
+                                                                   }
+                                                }
+                             },
+                     "crossbow":  {
+                                      "trigger":  "minecraft:item_durability_changed",
+                                      "conditions":  {
+                                                         "item":  {
+                                                                      "items":  "minecraft:crossbow"
+                                                                  },
+                                                         "durability":  {
+                                                                            "max":  0
+                                                                        }
+                                                     }
+                                  },
+                     "fishing_rod":  {
+                                         "trigger":  "minecraft:item_durability_changed",
+                                         "conditions":  {
+                                                            "item":  {
+                                                                         "items":  "minecraft:fishing_rod"
+                                                                     },
+                                                            "durability":  {
+                                                                               "max":  0
+                                                                           }
+                                                        }
+                                     },
+                     "flint_and_steel":  {
+                                             "trigger":  "minecraft:item_durability_changed",
+                                             "conditions":  {
+                                                                "item":  {
+                                                                             "items":  "minecraft:flint_and_steel"
+                                                                         },
+                                                                "durability":  {
+                                                                                   "max":  0
+                                                                               }
+                                                            }
+                                         },
+                     "shears":  {
+                                    "trigger":  "minecraft:item_durability_changed",
+                                    "conditions":  {
+                                                       "item":  {
+                                                                    "items":  "minecraft:shears"
+                                                                },
+                                                       "durability":  {
+                                                                          "max":  0
+                                                                      }
+                                                   }
+                                },
+                     "brush":  {
+                                   "trigger":  "minecraft:item_durability_changed",
+                                   "conditions":  {
+                                                      "item":  {
+                                                                   "items":  "minecraft:brush"
+                                                               },
+                                                      "durability":  {
+                                                                         "max":  0
+                                                                     }
+                                                  }
+                               },
+                     "carrot_on_a_stick":  {
+                                               "trigger":  "minecraft:item_durability_changed",
+                                               "conditions":  {
+                                                                  "item":  {
+                                                                               "items":  "minecraft:carrot_on_a_stick"
+                                                                           },
+                                                                  "durability":  {
+                                                                                     "max":  0
+                                                                                 }
+                                                              }
+                                           },
+                     "warped_fungus_on_a_stick":  {
+                                                      "trigger":  "minecraft:item_durability_changed",
+                                                      "conditions":  {
+                                                                         "item":  {
+                                                                                      "items":  "minecraft:warped_fungus_on_a_stick"
+                                                                                  },
+                                                                         "durability":  {
+                                                                                            "max":  0
+                                                                                        }
+                                                                     }
+                                                  }
+                 },
+    "requirements":  [
+                         [
+                             "diamond_sword",
+                             "stone_sword",
+                             "golden_sword",
+                             "netherite_sword",
+                             "wooden_sword",
+                             "iron_sword",
+                             "copper_sword",
+                             "diamond_spear",
+                             "stone_spear",
+                             "golden_spear",
+                             "netherite_spear",
+                             "wooden_spear",
+                             "iron_spear",
+                             "copper_spear",
+                             "diamond_shovel",
+                             "stone_shovel",
+                             "golden_shovel",
+                             "netherite_shovel",
+                             "wooden_shovel",
+                             "iron_shovel",
+                             "copper_shovel",
+                             "diamond_hoe",
+                             "stone_hoe",
+                             "golden_hoe",
+                             "netherite_hoe",
+                             "wooden_hoe",
+                             "iron_hoe",
+                             "copper_hoe",
+                             "diamond_pickaxe",
+                             "stone_pickaxe",
+                             "golden_pickaxe",
+                             "netherite_pickaxe",
+                             "wooden_pickaxe",
+                             "iron_pickaxe",
+                             "copper_pickaxe",
+                             "diamond_axe",
+                             "stone_axe",
+                             "golden_axe",
+                             "netherite_axe",
+                             "wooden_axe",
+                             "iron_axe",
+                             "copper_axe",
+                             "leather_helmet",
+                             "copper_helmet",
+                             "chainmail_helmet",
+                             "golden_helmet",
+                             "iron_helmet",
+                             "diamond_helmet",
+                             "netherite_helmet",
+                             "turtle_helmet",
+                             "leather_chestplate",
+                             "copper_chestplate",
+                             "chainmail_chestplate",
+                             "golden_chestplate",
+                             "iron_chestplate",
+                             "diamond_chestplate",
+                             "netherite_chestplate",
+                             "leather_leggings",
+                             "copper_leggings",
+                             "chainmail_leggings",
+                             "golden_leggings",
+                             "iron_leggings",
+                             "diamond_leggings",
+                             "netherite_leggings",
+                             "leather_boots",
+                             "copper_boots",
+                             "chainmail_boots",
+                             "golden_boots",
+                             "iron_boots",
+                             "diamond_boots",
+                             "netherite_boots",
+                             "shield",
+                             "elytra",
+                             "trident",
+                             "mace",
+                             "bow",
+                             "crossbow",
+                             "fishing_rod",
+                             "flint_and_steel",
+                             "shears",
+                             "brush",
+                             "carrot_on_a_stick",
+                             "warped_fungus_on_a_stick"
+                         ]
+                     ],
+    "rewards":  {
+                    "function":  "stamina:durability/broke"
+                }
+}

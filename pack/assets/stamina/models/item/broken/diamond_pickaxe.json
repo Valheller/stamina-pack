@@ -1,0 +1,6 @@
+{
+    "parent":  "minecraft:item/handheld",
+    "textures":  {
+                     "layer0":  "stamina:item/broken/diamond_pickaxe"
+                 }
+}

@@ -1,0 +1,170 @@
+{
+    "textures":  {
+                     "stone":  "minecraft:block/polished_andesite",
+                     "face":  "stamina:block/grave_stone",
+                     "dirt":  "minecraft:block/coarse_dirt",
+                     "particle":  "minecraft:block/polished_andesite"
+                 },
+    "elements":  [
+                     {
+                         "from":  [
+                                      3,
+                                      0,
+                                      6
+                                  ],
+                         "to":  [
+                                    13,
+                                    2,
+                                    10
+                                ],
+                         "faces":  {
+                                       "north":  {
+                                                     "texture":  "#stone"
+                                                 },
+                                       "east":  {
+                                                    "texture":  "#stone"
+                                                },
+                                       "south":  {
+                                                     "texture":  "#stone"
+                                                 },
+                                       "west":  {
+                                                    "texture":  "#stone"
+                                                },
+                                       "up":  {
+                                                  "texture":  "#stone"
+                                              },
+                                       "down":  {
+                                                    "texture":  "#stone"
+                                                }
+                                   }
+                     },
+                     {
+                         "from":  [
+                                      4,
+                                      2,
+                                      7
+                                  ],
+                         "to":  [
+                                    12,
+                                    14,
+                                    9
+                                ],
+                         "faces":  {
+                                       "north":  {
+                                                     "texture":  "#face"
+                                                 },
+                                       "east":  {
+                                                    "texture":  "#stone"
+                                                },
+                                       "south":  {
+                                                     "texture":  "#stone"
+                                                 },
+                                       "west":  {
+                                                    "texture":  "#stone"
+                                                },
+                                       "up":  {
+                                                  "texture":  "#stone"
+                                              },
+                                       "down":  {
+                                                    "texture":  "#stone"
+                                                }
+                                   }
+                     },
+                     {
+                         "from":  [
+                                      5,
+                                      14,
+                                      7
+                                  ],
+                         "to":  [
+                                    11,
+                                    15,
+                                    9
+                                ],
+                         "faces":  {
+                                       "north":  {
+                                                     "texture":  "#stone"
+                                                 },
+                                       "east":  {
+                                                    "texture":  "#stone"
+                                                },
+                                       "south":  {
+                                                     "texture":  "#stone"
+                                                 },
+                                       "west":  {
+                                                    "texture":  "#stone"
+                                                },
+                                       "up":  {
+                                                  "texture":  "#stone"
+                                              },
+                                       "down":  {
+                                                    "texture":  "#stone"
+                                                }
+                                   }
+                     },
+                     {
+                         "from":  [
+                                      4,
+                                      0,
+                                      1
+                                  ],
+                         "to":  [
+                                    12,
+                                    1,
+                                    6
+                                ],
+                         "faces":  {
+                                       "north":  {
+                                                     "texture":  "#dirt"
+                                                 },
+                                       "east":  {
+                                                    "texture":  "#dirt"
+                                                },
+                                       "south":  {
+                                                     "texture":  "#dirt"
+                                                 },
+                                       "west":  {
+                                                    "texture":  "#dirt"
+                                                },
+                                       "up":  {
+                                                  "texture":  "#dirt"
+                                              },
+                                       "down":  {
+                                                    "texture":  "#dirt"
+                                                }
+                                   }
+                     },
+                     {
+                         "from":  [
+                                      5,
+                                      1,
+                                      2
+                                  ],
+                         "to":  [
+                                    11,
+                                    2,
+                                    5
+                                ],
+                         "faces":  {
+                                       "north":  {
+                                                     "texture":  "#dirt"
+                                                 },
+                                       "east":  {
+                                                    "texture":  "#dirt"
+                                                },
+                                       "south":  {
+                                                     "texture":  "#dirt"
+                                                 },
+                                       "west":  {
+                                                    "texture":  "#dirt"
+                                                },
+                                       "up":  {
+                                                  "texture":  "#dirt"
+                                              },
+                                       "down":  {
+                                                    "texture":  "#dirt"
+                                                }
+                                   }
+                     }
+                 ]
+}

@@ -1,0 +1,7 @@
+{
+    "parent":  "minecraft:item/generated",
+    "textures":  {
+                     "layer0":  "stamina:item/broken/leather_boots",
+                     "layer1":  "stamina:item/broken/leather_boots_overlay"
+                 }
+}
